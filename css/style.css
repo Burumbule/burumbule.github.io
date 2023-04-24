@@ -7,7 +7,7 @@ body {
 	background-color: rgb(21, 78, 40);
 	font-family: 'Sofia Sans Semi Condensed', sans-serif;
 	background-image: url(/img/back1.jpg);
-	background-size: cover;
+	background-size: 110%;
 	background-position: no-repeat;
 }
 
